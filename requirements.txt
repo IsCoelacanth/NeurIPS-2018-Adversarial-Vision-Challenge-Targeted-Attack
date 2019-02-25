@@ -1,0 +1,8 @@
+numpy==1.14.2
+tensorflow-gpu==1.10.1
+git+https://github.com/bveliqi/adversarial-vision-challenge
+tensorpack==0.8.9
+scipy
+pillow
+scikit-image
+randomgen
